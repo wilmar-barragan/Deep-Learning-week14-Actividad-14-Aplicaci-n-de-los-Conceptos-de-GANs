@@ -1,0 +1,2 @@
+# Deep-Learning-week14-Actividad-14-Aplicaci-n-de-los-Conceptos-de-GANs
+¿Qué es una GAN y cómo funciona? Una GAN es un marco de aprendizaje profundo compuesto por dos redes neuronales que compiten entre sí en un juego de suma cero (minimax):  Generador (G): Recibe un vector de ruido aleatorio y aprende a transformarlo en imágenes sintéticas que imiten la distribución real del dataset. Discriminador (D)
